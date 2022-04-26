@@ -1,4 +1,4 @@
-# Unsupervised-DGL-playground
+# Unsupervised-dgl-playground
 Implementation of graph neural network techniques in pytorch and dgl.
 
 - unsupervised_models/ contains the implementation of unsupervised node
